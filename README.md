@@ -67,7 +67,7 @@ npm run android
 
 Uno will build and launch app
 
-:::image type="content" source="screenshot.png" alt-text="App screen shot":::
+![App screen shot](screenshot.png)
 
 Now you can start learning more from docs:
 
