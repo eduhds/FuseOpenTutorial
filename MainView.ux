@@ -1,0 +1,7 @@
+<App Background="#38BDF8">
+  <ClientPanel>
+    <StackPanel ItemSpacing="10">
+      <Text FontSize="30"  Alignment="Center" Margin="50">Hello, world!</Text>
+    </StackPanel>
+  </ClientPanel>
+</App>
